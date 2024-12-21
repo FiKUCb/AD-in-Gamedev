@@ -27,7 +27,6 @@
 
 ## Задание 1
 ### Написать программу Hello World на Python с запуском в Jupiter Notebook
-- 
 
 ```py
 
